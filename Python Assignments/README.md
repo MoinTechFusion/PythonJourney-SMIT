@@ -1,4 +1,4 @@
-# Python Assignment Folder
+# Python Assignments
 
 This folder contains Python assignments completed as part of the SMIT program, guided by Sir Qasim Hassan.
 
@@ -7,15 +7,10 @@ This folder houses various Python assignments that cover different topics and co
 
 ## Contents
 
-### Assignment 1: [Assignment_Name]
-- Brief description of the assignment.
-- Instructions for running the code.
-- Any additional notes or considerations.
-
-### Assignment 2: [Assignment_Name]
-- Description of the second assignment.
-- How to execute the code.
-- Any specific details or challenges faced.
+### Assignment 1: Conditional Statements in Python
+- Introduction to conditional statements (if, elif, else).
+- Practice exercises using conditional logic.
+- Instructions for running code implementing these statements.
 
 ### ...
 
