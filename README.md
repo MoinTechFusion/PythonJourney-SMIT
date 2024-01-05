@@ -47,4 +47,4 @@ Valuable resources used during my learning journey:
 - Online tutorials from [Real Python](https://realpython.com/)
   
 ## Acknowledgments
-I want to express my gratitude to Sir Qasim Hassan, my mentor from the SMIT program, for his invaluable guidance, support, and encouragement during my Python learning journey. I also want to thank the SMIT program instructors and my fellow learners for their contributions and assistance.
+I want to express my gratitude to Sir Qasim Hassan, my mentor from the SMIT program,, for his invaluable guidance, support, and encouragement during my Python learning journey. I also want to thank the SMIT program instructors and my fellow learners for their contributions and assistance.
